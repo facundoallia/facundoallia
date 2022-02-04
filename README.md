@@ -3,7 +3,9 @@
 
 
 - 🌱 I’m currently learning Phyton and R 
-- 💬 Ask me about Feel free to reach out to me just for some interesting discussion. 
+
+- 💬 Feel free to reach out to me just for some interesting discussion. 
+
 - 📫 How to reach me: You can shoot me an email at facujallia@gmail.com 
 
 
