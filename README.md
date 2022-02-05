@@ -6,7 +6,7 @@
 
 - 💬 Feel free to reach out to me just for some interesting discussion. 
 
-- 📫 How to reach me: You can shoot me an email at facujallia@gmail.com 
+- 📫 You can shoot me an email at facujallia@gmail.com 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/facundoalliafernandez//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@facundoallia)  
 
