@@ -2,7 +2,7 @@
 ![](https://steamuserimages-a.akamaihd.net/ugc/913539890295975190/487E65FCC15C60E817F901A747D323B25AB584A1/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 
 
-- 🌱 I’m currently learning Phyton and R 
+- 🌱 I’m currently learning Phyton and R
 
 - 💬 Feel free to reach out to me just for some interesting discussion. 
 
