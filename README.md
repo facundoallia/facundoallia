@@ -3,19 +3,26 @@
 </div>  
   
 
-### I'm Facundo Allia Fernandez, financial professional specialized in capital markets 📊 and data science 👨‍💻   
-  
+❓ Who I am?
 
-- 🔭 I’m currently working on [Logos Servicios Financieros](http://logos-serviciosfinancieros.com.ar/)  
-  
+My name is Facundo Allia, I am a professional specialized in finance and data science. I consider myself an analytical and curious person, with the ability to work under pressure and strong communication skills.
 
-- 🌱 I’m currently learning Python and SQL  
-  
+❓ What I do?
 
-- ❓ Feel free to reach out to me just for some interesting discussion.   
-  
+As an expert in capital markets, I advise on investment matters. I am committed to understanding the different personal plans of my clients to define and develop financial strategies aligned to each of their objectives and needs.
 
-- 📫 You can shoot me an email at facujallia@gmail.com   
+❗ More about me:
+
+🎓 I have a degree in administration from the National University of Córdoba, where I specialized in finance and had the opportunity to be an assistant professor in the Stock Exchange and Stock Market subject.
+
+🔍 I deepened my studies in capital markets and derivatives trading at the Rosario Stock Exchange, as well as in various courses related to the subject. I am qualified in the capital market, certified by the National Securities Commission, I have the stock market producer agent registration No. 1271 issued by this entity.
+
+💻 I specialized in Data Science at Henry, developing technical skills in Python (Numpy, Pandas, SciPy and visualization libraries), SQL, Git, Docker, NoSQL, PowerBI, BigData and Machine Learning tools (TensorFlow, Scikit-Learn and Keras ).
+
+📈 I have work experience in financial analysis, derivatives trading, financial services marketing, financial statement auditing and business management.
+
+📩 You can contact me at the following email: facujallia@gmail.com
+
   
 
 <br/>  
