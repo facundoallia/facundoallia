@@ -1,38 +1,23 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="360" height="240"" />
-</div>  
+<img src=https://media.licdn.com/dms/image/C4D16AQFX9BRlnf227g/profile-displaybackgroundimage-shrink_350_1400/0/1660013378624?e=1679529600&v=beta&t=mjjR48xjTxu1QsfIrSnIuNuL8NS0DOzwc2dSCcaJloI align="center" width="1000" height="240"" />
+
+</div>                                                                                                              
+
+<br/>  
   
 
-❓ Who I am?
+My name is Facundo Allia, I am a professional specialized in data science and finance.
 
-My name is Facundo Allia, I am a professional specialized in finance and data science. I consider myself an analytical and curious person, with the ability to work under pressure and strong communication skills.
+💻 I specialized in Python (Numpy, Pandas, SciPy and visualization libraries), SQL, Spark, Git, Docker, R, PowerBI and Machine Learning (TensorFlow, Scikit-Learn and Keras).
 
-❓ What I do?
-
-As an expert in capital markets, I advise on investment matters. I am committed to understanding the different personal plans of my clients to define and develop financial strategies aligned to each of their objectives and needs.
-
-❗ More about me:
-
-🎓 I have a degree in administration from the National University of Córdoba, where I specialized in finance and had the opportunity to be an assistant professor in the Stock Exchange and Stock Market subject.
-
-🔍 I deepened my studies in capital markets and derivatives trading at the Rosario Stock Exchange, as well as in various courses related to the subject. I am qualified in the capital market, certified by the National Securities Commission, I have the stock market producer agent registration No. 1271 issued by this entity.
-
-💻 I specialized in Data Science at Henry, developing technical skills in Python (Numpy, Pandas, SciPy and visualization libraries), SQL, Git, Docker, NoSQL, PowerBI, BigData and Machine Learning tools (TensorFlow, Scikit-Learn and Keras ).
-
-📈 I have work experience in financial analysis, derivatives trading, financial services marketing, financial statement auditing and business management.
+📈 I have work experience in time series forecasting, financial analysis, data analytics, derivatives trading, financial services marketing and business management.
 
 📩 You can contact me at the following email: facujallia@gmail.com
 
-  
 
 <br/>  
 
 
-## My Skill Set  
-
-
-
-### Data   
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
