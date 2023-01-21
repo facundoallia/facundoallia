@@ -14,7 +14,7 @@
 
 
 
-💻 I specialized in Python (Numpy, Pandas, SciPy and visualization libraries), SQL, Spark, Git, Docker, R, PowerBI and Machine Learning (TensorFlow, Scikit-Learn and Keras).
+💻 I specialize in Python (Numpy, Pandas, SciPy and visualization libraries), SQL, Spark, Git, Docker, R, PowerBI and Machine Learning (TensorFlow, Scikit-Learn and Keras).
 
 📈 I have work experience in time series forecasting, financial analysis, data analytics, derivatives trading, financial services marketing and business management.
 
