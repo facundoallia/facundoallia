@@ -1,5 +1,4 @@
-## 👋🏻 Hello! My name is Facundo Allia. Data scientist and expert in finance
-
+## 👋🏻 Hi! My name is Facundo Allia.
 
 ### Professional specialized in data science and financial markets
 
