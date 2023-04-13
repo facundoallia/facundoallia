@@ -1,18 +1,7 @@
 ## 👋🏻 Hello! My name is Facundo Allia. Data scientist and expert in finance
 
 
-<br/>
-
-
-<div align="center">
-<img src=https://media.licdn.com/dms/image/C4D16AQFX9BRlnf227g/profile-displaybackgroundimage-shrink_350_1400/0/1660013378624?e=1679529600&v=beta&t=mjjR48xjTxu1QsfIrSnIuNuL8NS0DOzwc2dSCcaJloI align="center" width="1000" height="240"" />
-
-</div>                                                                                                              
-
-<br/>  
-  
-
-
+### Professional specialized in data science and financial markets
 
 💻 I specialize in Python (Numpy, Pandas, SciPy and visualization libraries), SQL, Spark, Git, Docker, R, PowerBI and Machine Learning (TensorFlow, Scikit-Learn and Keras).
 
