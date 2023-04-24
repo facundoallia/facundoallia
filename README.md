@@ -8,11 +8,11 @@
 
 📩 Contact me at the following email: facujallia@gmail.com
 
-Check out my [LinkedIn profile](https://www.linkedin.com/in/facundoalliafernandez/?locale=en_US)
+💼 Check out my [LinkedIn profile](https://www.linkedin.com/in/facundoalliafernandez/?locale=en_US)
 
-I usually post about these topics on [Medium](https://medium.com/@facujallia)
+✏ I usually post about these topics on [Medium](https://medium.com/@facujallia)
 
-You can also follow me on [Twitter](https://twitter.com/facundoallia)
+☑ You can also follow me on [Twitter](https://twitter.com/facundoallia)
 
 <br/>  
 
