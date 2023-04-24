@@ -2,12 +2,17 @@
 
 ### Professional specialized in data science and financial markets
 
-💻 I specialize in Python (Numpy, Pandas, SciPy and visualization libraries), SQL, Spark, Git, Docker, R, PowerBI and Machine Learning (TensorFlow, Scikit-Learn and Keras).
+💻 I specialize in Python, SQL, Spark, Git, Docker, R, PowerBI and Machine Learning.
 
-📈 I have work experience in time series forecasting, financial analysis, data analytics, derivatives trading, financial services marketing and business management.
+📈 I have work experience in time series forecasting, financial analysis, data analytics, derivatives trading and business management.
 
-📩 You can contact me at the following email: facujallia@gmail.com
+📩 Contact me at the following email: facujallia@gmail.com
 
+Check out my [LinkedIn profile](https://www.linkedin.com/in/facundoalliafernandez/?locale=en_US)
+
+I usually post about these topics on [Medium](https://medium.com/@facujallia)
+
+You can also follow me on [Twitter](https://twitter.com/facundoallia)
 
 <br/>  
 
