@@ -2,7 +2,7 @@
 
 ### Professional specialized in data science and financial markets
 
-💻 I specialize in Python, SQL, Spark, Git, Docker, R, PowerBI and Machine Learning.
+💻 I have experience with Python, SQL, Spark, Git, Docker, R, PowerBI and Machine Learning.
 
 📈 I have work experience in time series forecasting, financial analysis, data analytics, derivatives trading and business management.
 
