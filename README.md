@@ -4,9 +4,11 @@
 
 **Data Scientist & Quantitative Finance Specialist**
 
+### 🌐 [facundoallia.github.io](https://facundoallia.github.io) — Check out my portfolio
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://facundoallia.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facundoalliafernandez/)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@facujallia)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://facundoallia.github.io)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/facundoallia)
 
 </div>
@@ -18,6 +20,8 @@ Data Scientist and Python developer with 7+ years bridging **advanced analytics,
 I also run [**Logos Servicios Financieros**](https://logos-serviciosfinancieros.com.ar) as Financial Advisor & Founder, providing investment advisory, portfolio management, and building open-source financial tools for the community.
 
 I build production-grade tools — from ETL pipelines and REST APIs to pricing models and trading systems — and publish research on quantitative finance (SSRN) and tech articles on Medium.
+
+> 💼 **Projects, writeups, and full background → [facundoallia.github.io](https://facundoallia.github.io)**
 
 ---
 
@@ -56,6 +60,8 @@ I build production-grade tools — from ETL pipelines and REST APIs to pricing m
 ---
 
 ### 📌 Featured Projects
+
+> 🔎 Full project descriptions and demos at **[facundoallia.github.io](https://facundoallia.github.io)**
 
 | Project | Description | Stack |
 |---------|-------------|-------|
@@ -97,12 +103,8 @@ I build production-grade tools — from ETL pipelines and REST APIs to pricing m
 
 ---
 
-</div>
-
----
-
 <div align="center">
 
-📫 **facujallia@gmail.com** · [Portfolio](https://facundoallia.github.io) · [LinkedIn](https://www.linkedin.com/in/facundoalliafernandez/) · [Medium](https://medium.com/@facujallia)
+📫 **facujallia@gmail.com** · [**Portfolio →**](https://facundoallia.github.io) · [LinkedIn](https://www.linkedin.com/in/facundoalliafernandez/) · [Medium](https://medium.com/@facujallia)
 
 </div>
