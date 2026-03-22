@@ -89,7 +89,7 @@ I build production-grade tools — from ETL pipelines and REST APIs to pricing m
 | 2024 – 2025 | Quantitative Analyst (Derivatives Pricing) | PwC |
 | 2022 – 2023 | Financial Data Transition Specialist | Accenture |
 | 2022 | Data Scientist (Time Series Forecasting) | Nixtla |
-| 2021 – 2023 | Institutional Derivatives Trader — Market Making | Matba Rofex |
+| 2021 – 2023 | NOR - Institutional Derivatives Trader — Market Making | Matba Rofex |
 | 2020 – Present | Financial Advisor & Founder | [Logos Servicios Financieros](https://logos-serviciosfinancieros.com.ar) |
 
 ---
